@@ -1,1 +1,9 @@
-华山剑法、天下第一
+public class Test(){
+
+	public static void main(){
+
+		System.out.println("Hello World!");
+
+	}
+
+}
